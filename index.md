@@ -12,9 +12,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 <script src="scripts/main.js"></script>
-const myHeading = document.querySelector('h1');
+<body>const myHeading = document.querySelector('h1');
 myHeading.textContent = 'Hello world!';
 
+  </body>
 # Header 1
 ## Header 2
 ### Header 3
