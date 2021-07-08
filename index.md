@@ -16,8 +16,10 @@ Syntax highlighted code block
   <script src="scripts/main.js"></script>
   const myHeading = document.querySelector('h1');
 myHeading.textContent = 'Hello world!';
-</html>
+
   </body>
+  
+  </html>
 # Header 1
 ## Header 2
 ### Header 3
